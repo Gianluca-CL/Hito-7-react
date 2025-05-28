@@ -1,14 +1,8 @@
 
 # Pizzería Mamma Mía 🍕
 
-Proyecto desarrollado como parte del Hito 6 del curso de React en Desafío Latam. El objetivo principal es implementar el manejo de estado global utilizando Context API para gestionar el carrito de compras.
+Proyecto desarrollado como parte del Hito 7 del curso de React en Desafío Latam.
 
-## 👤 Desarrollado por
-
-**Maximiliano Foradori**  
-Estudiante apasionado por el desarrollo frontend, con gran compromiso en la construcción de interfaces intuitivas y funcionales. Este proyecto demuestra el uso correcto de Context API para resolver desafíos reales de una pizzería digital.
-
----
 
 ## 📦 Instalación y ejecución del proyecto
 
